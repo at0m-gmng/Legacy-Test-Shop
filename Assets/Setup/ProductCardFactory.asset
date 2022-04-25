@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 566228954d54514499bce8e280e2689b, type: 3}
+  m_Name: ProductCardFactory
+  m_EditorClassIdentifier: 
+  _productCardPermanently: {fileID: 4368559727388893707, guid: 2ac30ee8b187b0d40a142d0995b9e966, type: 3}
+  _productCardTemporary: {fileID: 8206511362374894484, guid: 71b23edc00f005d479d1db7a2350357a, type: 3}
+  ProductDatas:
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 912
+    ProductBrilliantPrice: 428
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 799
+    ProductBrilliantPrice: 965
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 996
+    ProductBrilliantPrice: 542
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 930
+    ProductBrilliantPrice: 449
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 499
+    ProductBrilliantPrice: 324
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 346
+    ProductBrilliantPrice: 772
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 774
+    ProductBrilliantPrice: 304
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 711
+    ProductBrilliantPrice: 486
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 264
+    ProductBrilliantPrice: 636
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 498
+    ProductBrilliantPrice: 894
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 498
+    ProductBrilliantPrice: 894
+    IsPurchased: 0
+  - ProductName: 
+    ProductImage: {fileID: 0}
+    ProductCoinPrice: 498
+    ProductBrilliantPrice: 894
+    IsPurchased: 0
